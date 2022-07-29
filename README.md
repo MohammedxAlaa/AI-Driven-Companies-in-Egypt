@@ -4,10 +4,10 @@
 ## Companies 
 | Company | Domain | Location |
 | --- | --- | --- |
-| [Arqamfc](https://www.arqamfc.com/)                          | Analytics                                                    | Nasr City, Cairo      |
 | [Wakeb Data](https://www.linkedin.com/company/wakeb-data/)   | Business Intelligence, Data Analysis, Artificial Intelligence | Cairo                 |
 | [360imaging](https://www.linkedin.com/company/360imaging)    | Computer Guided Surgery, Medical Imaging                     | Giza                  |
 | [ADVINTIC](https://www.linkedin.com/company/advintic)        | Machine Learning, Deep Learning                              | Cairo, Egypt          |
+| [Arqamfc](https://www.arqamfc.com/)                          | Analytics                                                    | Nasr City, Cairo      |
 | [iHub](https://www.linkedin.com/company/hqihub)              | Machine Learning                                             | Abbaseya, Cairo       |
 | [StratoChem Services](https://www.linkedin.com/company/stratochem-services) | Data analysis, Image processing, data mining                 | New Maadi, Cairo      |
 | [Dell Technologies](http://www.linkedin.com/company/delltechnologies) | Data Science, Machine Learning, Deep Learning                | Smart village         |
